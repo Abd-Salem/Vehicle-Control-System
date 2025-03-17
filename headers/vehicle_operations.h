@@ -107,4 +107,10 @@ noret turnOnStates(noarg);
  */
 noret printChoices(noarg);
 
+/* description:
+ * Start program function
+ */
+
+noret runProgram(noarg);
+
 #endif /* MYFUN_H_ */
